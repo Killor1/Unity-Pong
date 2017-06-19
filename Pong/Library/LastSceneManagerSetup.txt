@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/0Scenes/Pong2dScene.unity
+  isLoaded: 1
+  isActive: 1
